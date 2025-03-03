@@ -3,3 +3,6 @@ My journey towards being a Git pro just began.
 
 My journey on git has been exhilarating. I am becoming proficient in git
 I am delighted.
+
+Thanks to the AI-ACADEMY for my growth
+I am grateful
